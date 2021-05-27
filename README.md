@@ -62,7 +62,7 @@
 		</li>
 		<li><br><br><br>
 			<header>
-				<img src="sisilogo.png">
+				<img src="![image](https://user-images.githubusercontent.com/74251488/119746776-d23c4f00-bec3-11eb-8b39-603199b7d0ab.png)">
 			</header>
 			<nav>
 				<ul type="none">
@@ -81,9 +81,9 @@
 				Элсэлтээс төгсөлт хүртэлх сургалтын бүхий л үйл ажиллагаа уг системээр дамжиж явагдана.</p>
 			</article>
 
-		</li>
+		
 		<li>
-			<figure><img src="sisidiagram.jpg" width="400" height="300">
+			<figure><img src="https://sisi.num.edu.mn/sisi_v4/modules/student/helpsystem/stud_all/lib/sisi-diagram.jpg" width="400" height="300">
 				<figcaption>Үйл ажиллагааны диаграм</figcaption>
 			</figure>
 			<footer><address>sisi.num.edu.mn</address></footer>
