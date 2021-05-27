@@ -81,7 +81,7 @@
 				Элсэлтээс төгсөлт хүртэлх сургалтын бүхий л үйл ажиллагаа уг системээр дамжиж явагдана.</p>
 			</article>
 
-		
+	</li>
 		<li>
 			<figure><img src="https://sisi.num.edu.mn/sisi_v4/modules/student/helpsystem/stud_all/lib/sisi-diagram.jpg" width="400" height="300">
 				<figcaption>Үйл ажиллагааны диаграм</figcaption>
